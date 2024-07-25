@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " / ",
+    " / "
+  ],
+  "key": {
+    "#": {
+      "item": "allthethings:morion"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "allthethings:morion_shovel"
+  }
+}

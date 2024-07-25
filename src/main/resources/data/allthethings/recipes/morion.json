@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "allthethings:morion_ore"
+  },
+  "result": "allthethings:morion",
+  "experience": 0.7,
+  "cookingtime": 300
+}
